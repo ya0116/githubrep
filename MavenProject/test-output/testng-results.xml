@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141177" started-at="2017-07-21T17:10:14Z" finished-at="2017-07-21T17:12:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141177" started-at="2017-07-21T17:10:14Z" finished-at="2017-07-21T17:12:35Z">
+      <class name="Academy.homepage">
+        <test-method status="PASS" signature="logginguntaccount(java.lang.String, java.lang.String)[pri:0, instance:Academy.homepage@6ab778a]" name="logginguntaccount" duration-ms="101547" started-at="2017-07-21T12:10:14Z" data-provider="getData" finished-at="2017-07-21T12:11:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ya0116]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yesh1994]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logginguntaccount -->
+        <test-method status="PASS" signature="logginguntaccount(java.lang.String, java.lang.String)[pri:0, instance:Academy.homepage@6ab778a]" name="logginguntaccount" duration-ms="39532" started-at="2017-07-21T12:11:55Z" data-provider="getData" finished-at="2017-07-21T12:12:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ya0116]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Yesh199-]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logginguntaccount -->
+      </class> <!-- Academy.homepage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

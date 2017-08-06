@@ -1,0 +1,35 @@
+# Created on 2017-07-19T14:27:33.392
+java.lang.Error: Unresolved compilation problems: 
+	The import com.relevantcodes cannot be resolved
+	The import com.relevantcodes cannot be resolved
+	The import com.relevantcodes cannot be resolved
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	LogStatus cannot be resolved to a variable
+	LogStatus cannot be resolved to a variable
+	LogStatus cannot be resolved to a variable
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	LogStatus cannot be resolved to a type
+	ExtentTest cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+	ExtentReports cannot be resolved to a type
+
+	at resources.ExtentReporterNG.<init>(ExtentReporterNG.java:17)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at java.lang.Class.newInstance(Class.java:442)
+	at org.testng.internal.ClassHelper.newInstance(ClassHelper.java:49)
+	at org.testng.TestNG.initializeConfiguration(TestNG.java:906)
+	at org.testng.TestNG.run(TestNG.java:1005)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+
+
