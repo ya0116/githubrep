@@ -23,7 +23,7 @@ public class homepage extends base
 	{
 	 driver=initializeDriver();
 	 log.info("Driver is initialized");
-	 //Opening home page with the given browser in properties file 
+	 //Opening home page with the given browser in properties file  hello
 	driver.get(prop.getProperty("url"));	 
 	 
 	 landingpage l=new landingpage(driver);
